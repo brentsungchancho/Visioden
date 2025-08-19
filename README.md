@@ -1,12 +1,4 @@
-<header class="text-center mb-16 md:mb-24">
- <img src="images/logo.png" alt="VisioDen ロ고" class="h-12 mx-auto mb-3">
- <h1 class="text-4xl md:text-5xl font-extrabold tracking-tight">
-  VisioDen
- </h1>
- <p class="mt-3 text-lg md:text-xl text-slate-600 max-w-2xl mx-auto">
-  Where Vision Meets Mastery.
- </p>
-</header><html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
